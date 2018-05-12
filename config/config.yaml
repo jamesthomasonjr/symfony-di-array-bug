@@ -1,0 +1,3 @@
+parameters:
+  test.env.arr: "%env(json:TEST_ENV_ARRAY)%"
+  test.env.var: "%env(string:TEST_ENV_STRING)%"

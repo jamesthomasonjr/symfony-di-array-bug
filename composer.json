@@ -1,0 +1,15 @@
+{
+    "name": "jthomason/symfony-di-bug",
+    "authors": [
+        {
+            "name": "Thomason, James",
+            "email": "JamesThomason@QuickenLoans.com"
+        }
+    ],
+    "require": {
+        "symfony/config": "~4.0",
+        "symfony/dependency-injection": "~4.0",
+        "symfony/dotenv": "~4.0",
+        "symfony/yaml": "~4.0"
+    }
+}
